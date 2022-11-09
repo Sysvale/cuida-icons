@@ -1,0 +1,24 @@
+{
+	"name": "cuida-icons",
+	"version": "1.0.0",
+	"description": "cuida icons",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"optimize": "rimraf ./optimized & svgo -q -p 8 -f ./raw -o ./optimized"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Sysvale/cuida-icons.git"
+	},
+	"author": "",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Sysvale/cuida-icons/issues"
+	},
+	"homepage": "https://github.com/Sysvale/cuida-icons#readme",
+	"devDependencies": {
+		"rimraf": "^3.0.2",
+		"svgo": "^2.6.1"
+	}
+}
