@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g class="scope-outline">
+    <g class="Vector">
+      <path fill-rule="evenodd" d="M19.598 9.495a8 8 0 1 1-15.194 5.01 8 8 0 0 1 15.194-5.01Zm-1.614 2.95a6.001 6.001 0 1 0-11.97-.89 6.001 6.001 0 0 0 11.97.89Z" clip-rule="evenodd"/>
+      <path fill-rule="evenodd" d="M12 14a2 2 0 1 0 0-4 2 2 0 0 0 0 4Zm0 2a4 4 0 1 0 0-8 4 4 0 0 0 0 8Zm0-14a1 1 0 0 1 1 1v2a1 1 0 1 1-2 0V3a1 1 0 0 1 1-1Zm0 16a1 1 0 0 1 1 1v2a1 1 0 1 1-2 0v-2a1 1 0 0 1 1-1Zm10-6a1 1 0 0 1-1 1h-2a1 1 0 1 1 0-2h2a1 1 0 0 1 1 1ZM6 12a1 1 0 0 1-1 1H3a1 1 0 1 1 0-2h2a1 1 0 0 1 1 1Z" clip-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

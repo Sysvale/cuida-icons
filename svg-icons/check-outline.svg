@@ -1,3 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <path fill-rule="evenodd" d="M20.03 6.47a.75.75 0 0 1 0 1.06l-9.41 9.411a1.583 1.583 0 0 1-2.24 0l-4.41-4.41a.75.75 0 1 1 1.06-1.061l4.411 4.41a.083.083 0 0 0 .118 0l9.41-9.41a.75.75 0 0 1 1.061 0Z" clip-rule="evenodd"/>
+  <g class="check-outline">
+    <path fill-rule="evenodd" d="M19.696 6.282a1 1 0 0 1 .022 1.414L10.313 17.4a1.4 1.4 0 0 1-2.01 0l-4.021-4.148a1 1 0 1 1 1.436-1.392l3.59 3.703 8.974-9.259a1 1 0 0 1 1.414-.022Z" class="Vector" clip-rule="evenodd"/>
+  </g>
 </svg>
