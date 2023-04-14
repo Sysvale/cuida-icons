@@ -1,5 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <g class="caret-left-outline">
-    <path fill-rule="evenodd" d="M17.733 7.607v9.383c0 2.612-3.106 3.976-5.03 2.21L7.7 14.6a3 3 0 0 1-.044-4.377l5.005-4.786m5.073 2.169c0-2.64-3.165-3.993-5.073-2.169Zm-2 0v9.383c0 .87-1.035 1.326-1.676.737l-5.005-4.598a1 1 0 0 1-.014-1.46l5.004-4.785c.636-.608 1.691-.157 1.691.723Z" class="Vector 57 (Stroke)" clip-rule="evenodd"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <path fill="#29333D" fill-rule="evenodd" d="M14.44 17.668a1 1 0 0 1-1.413.076l-4.69-4.214a1.91 1.91 0 0 1-.036-2.807l4.708-4.45a1 1 0 0 1 1.373 1.454l-4.635 4.381 4.617 4.148a1 1 0 0 1 .075 1.412Z" clip-rule="evenodd"/>
 </svg>
