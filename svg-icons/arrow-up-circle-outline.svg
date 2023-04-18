@@ -1,4 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <path fill-rule="evenodd" d="M12 5.714a1 1 0 0 1 1 1v12.5a1 1 0 0 1-2 0v-12.5a1 1 0 0 1 1-1Z" clip-rule="evenodd"/>
-  <path fill-rule="evenodd" d="M12 4.214a1 1 0 0 1 .707.293l4.5 4.5a1 1 0 0 1-1.414 1.415L12 6.628l-3.793 3.793a1 1 0 0 1-1.414-1.415l4.5-4.5A1 1 0 0 1 12 4.214Z" clip-rule="evenodd"/>
+  <g class="arrow-up-circle-outline">
+    <g class="Vector">
+      <path fill-rule="evenodd" d="M22 12c0 5.523-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2s10 4.477 10 10Zm-10 8a8 8 0 1 0 0-16 8 8 0 0 0 0 16Z" clip-rule="evenodd"/>
+      <path fill-rule="evenodd" d="M12 7a1 1 0 0 1 1 1v8a1 1 0 1 1-2 0V8a1 1 0 0 1 1-1Z" clip-rule="evenodd"/>
+      <path fill-rule="evenodd" d="M11.293 7.293a1 1 0 0 1 1.414 0l3 3a1 1 0 0 1-1.414 1.414L12 9.414l-2.293 2.293a1 1 0 0 1-1.414-1.414l3-3Z" clip-rule="evenodd"/>
+    </g>
+  </g>
 </svg>
