@@ -12,7 +12,7 @@
 - O Cuida icons pode ser instalado com o npm:
 
 ```bash
-$ npm i @sysvale/cuida-icons;
+npm i @sysvale/cuida-icons;
 ```
 
 ## Usando
@@ -26,13 +26,13 @@ $ npm i @sysvale/cuida-icons;
 - Clone o repositório:
 
 ```bash
-$ git clone https://github.com/Sysvale/cuida-icons.git
+git clone https://github.com/Sysvale/cuida-icons.git
 ```
 
 - Instale as dependências com:
 
 ```bash
-$ npm i
+npm i
 ```
 
 ## Contribuindo
