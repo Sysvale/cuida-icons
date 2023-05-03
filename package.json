@@ -1,6 +1,6 @@
 {
 	"name": "@sysvale/cuida-icons",
-	"version": "1.10.0",
+	"version": "1.11.0",
 	"description": "cuida icons",
 	"main": "index.js",
 	"files": [
@@ -9,7 +9,7 @@
 	"sideEffects": false,
 	"scripts": {
 		"build": "npm run transform-icons && npm run copy-library-assets",
-		"build:showcase": "npm run build:library && npm run bundle-showcase && npm run copy-showcase-files",
+		"build:showcase": "npm run build && npm run bundle-showcase && npm run copy-showcase-files",
 		"bundle-showcase": "webpack --config ./showcase/webpack.config.js",
 		"commit": "git-cz",
 		"copy-showcase-files": "cpx showcase/index.html dist/showcase && cpx showcase/styles.css dist/showcase",
