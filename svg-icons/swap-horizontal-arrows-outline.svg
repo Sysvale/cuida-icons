@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
-  <path fill="#29333D" fill-rule="evenodd" d="M2 16.5a1 1 0 0 0 1 1h12a1 1 0 1 0 0-2H3a1 1 0 0 0-1 1Z" clip-rule="evenodd"/>
-  <path fill="#29333D" fill-rule="evenodd" d="M2.293 15.793a1 1 0 0 0 0 1.414l3.5 3.5a1 1 0 0 0 1.414-1.414L4.414 16.5l2.793-2.793a1 1 0 1 0-1.414-1.414l-3.5 3.5ZM22 7.5a1 1 0 0 0-1-1H9a1 1 0 0 0 0 2h12a1 1 0 0 0 1-1Z" clip-rule="evenodd"/>
-  <path fill="#29333D" fill-rule="evenodd" d="M21.707 8.207a1 1 0 0 0 0-1.414l-3.5-3.5a1 1 0 1 0-1.414 1.414L19.586 7.5l-2.793 2.793a1 1 0 0 0 1.414 1.414l3.5-3.5Z" clip-rule="evenodd"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="25" fill="none" viewBox="0 0 24 25">
+  <path fill="#28333E" fill-rule="evenodd" d="M2 16.786a1 1 0 0 0 1 1h12a1 1 0 1 0 0-2H3a1 1 0 0 0-1 1Z" clip-rule="evenodd"/>
+  <path fill="#28333E" fill-rule="evenodd" d="M2.293 16.079a1 1 0 0 0 0 1.414l3.5 3.5a1 1 0 0 0 1.414-1.414l-2.793-2.793 2.793-2.793a.999.999 0 0 0-.703-1.72 1 1 0 0 0-.711.306l-3.5 3.5ZM22 7.786a1 1 0 0 0-1-1H9a1 1 0 0 0 0 2h12a1 1 0 0 0 1-1Z" clip-rule="evenodd"/>
+  <path fill="#28333E" fill-rule="evenodd" d="M21.707 8.493a1 1 0 0 0 0-1.414l-3.5-3.5a1 1 0 1 0-1.414 1.414l2.793 2.793-2.793 2.793a1 1 0 0 0 1.414 1.414l3.5-3.5Z" clip-rule="evenodd"/>
 </svg>
